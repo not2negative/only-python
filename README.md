@@ -1,0 +1,1 @@
+# Aprendizaje de python en español, yendo desde sintáxis básica (listas, tuplas, diccionarios) a un nivel más avanzado. Este repositorio tiene como fin el almacenaje de archivos python hechos para aprendizaje.
